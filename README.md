@@ -1,38 +1,79 @@
-# data-analysis-Nikesh-Luxury-Clothing-Store-Annual-Report-
-This project presents a complete sales and customer data analysis of Nikesh Luxury Clothing Store using Excel. It includes data cleaning, logical formulas, lookup, and dashboards built to uncover key insights from annual sales records.The dashboard visualizes important KPIs across gender, age group, region, channel (Amazon, Myntra, Ajio)
+# 👗 Nikesh Luxury Clothing Store – Annual Sales Data Analysis Dashboard
 
-##Dataset Used
-<a https://github.com/Nicksopp/data-analysis-Nikesh-Luxury-Clothing-Store-Annual-Report-/blob/main/dashboard(nikesh%20clothing%20store).xlsx > DataSet </a>
+## 📌 Project Description
 
-##roject Objective
-To derive valuable insights from customer and order data for business optimization, targeting improvements in customer segmentation, product performance, and regional strategy.
+This project showcases a comprehensive **sales and customer data analysis** for *Nikesh Luxury Clothing Store*, a luxury fashion e-commerce brand.  
+Built using **Microsoft Excel**, it visualizes key business metrics through a clean, interactive dashboard to support insights into revenue trends, customer demographics, product performance, and sales channels.
 
-#Dashboard 
-![Screenshot 2025-06-07 230636](https://github.com/user-attachments/assets/13e78a0d-65aa-44b8-a7ee-e995f74223b1)
+---
+
+## 🎯 Objective
+
+To uncover data-driven insights from the clothing store's annual transactions and improve business decisions in:
+- Product assortment
+- Customer segmentation
+- Regional targeting
+- Channel-wise performance
+
+## 🖼️ Dashboard Preview
+![Screenshot 2025-06-07 230636](https://github.com/user-attachments/assets/1ef5c278-ce76-4eb6-8596-0773f8f768e4)
+
+---
+
+## 📊 Dashboard Highlights
+
+### ✅ KPIs Visualized:
+- 💰 **Total Revenue**
+- 📈 **Monthly Sales Trends**
+- 🧍‍♂️ **Customer Footfall**
+- 🔄 **Order Status Breakdown** (Delivered, Cancelled, Returned)
+- 🧥 **Top-Selling Categories**
+- 🧒 **Age Group + Gender Segments**
+- 🌍 **State-Wise Sales Distribution**
+- 🛒 **Platform Performance** (Amazon, Ajio, Myntra)
+- 🧾 **Order Types** (B2B vs B2C)
+
+---
+
+## 📁 Dataset Overview
+
+The dataset includes:
+- `Order ID`, `Customer ID`
+- `Gender`, `Age Group`
+- `Order Date`, `Status`, `Sales Channel`
+- `Category`, `Size`, `Qty`, `Amount`
+- `Shipping Location`, `Order Type (B2B/B2C)`
+
+### Supporting Sheets:
+- `sales and order`
+- `purchase gender`
+- `state info`
+- `order age vs gender`
+
+---
+
+## 🧠 Key Business Questions Answered:
+
+1. What is the monthly revenue and order trend?
+2. Who purchases more — men or women?
+3. Which age group is most active in shopping?
+4. What states generate the most revenue?
+5. What are the top-selling categories?
+6. Which platform brings the most revenue: Amazon, Myntra, or Ajio?
+7. What’s the proportion of B2B vs B2C orders?
+8. How do returns and cancellations affect overall sales?
+
+---
+
+## 🛠️ Tools & Excel Features Used
+
+- Pivot Tables & Charts  
+- Slicers & Timelines  
+- Conditional Formatting  
+- Lookup Functions: `VLOOKUP`, `MATCH`, `INDEX`  
+- Logical Functions: `IF`, `IFS`, `AND`, `OR`  
+- Data Validation & Cleaning  
+
+---
 
 
-##Dataset Overview:
-Source Sheet: Nikesh Clothing store
-Fields Included:
-Customer & Order IDs
-Gender, Age Group, B2B Indicator
-Order Date, Month, Status
-Platform (Amazon, Ajio, Myntra)
-Product Category, Size, Quantity, Amount
-Shipping State & City
-Supporting Sheets:
-sales and order — Monthly sales and order count
-PURCHASE GENDER — Gender-wise revenue
-state info — State-wise sales
-order age vs gender — Demographic pattern
-
-##Tools & Skills Applied:
-Excel Skills:
-Data Cleaning: Remove duplicates, empty rows, text formatting
-Logical Functions: IF, IFS, AND, OR
-Lookup: VLOOKUP, INDEX, MATCH
-Dashboarding: Pivot Tables, Charts, Slicers, Conditional Formatting
-Soft Skills:
-Business thinking
-KPI identification
-Storytelling with data
