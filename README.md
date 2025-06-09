@@ -1,4 +1,4 @@
-# 👗 Nikesh Luxury Clothing Store – Annual Sales Data Analysis Dashboard
+# 👗 Nikesh Luxury Clothing Store – Annual Sales Data Analysis Dashboard in Excel
 
 ## 📌 Project Description
 
